@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "837ad4c2267f9194",
+    "type": "split",
+    "children": [
+      {
+        "id": "b11370b86bf47767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34e25d7e447f06ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Spring-Boot🌱/📘 Day 42 – Logging with SLF4J & Logback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "📘 Day 42 – Logging with SLF4J & Logback"
+            }
+          },
+          {
+            "id": "984d9c76102d9ea8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b2c9475ad462a51",
+    "type": "split",
+    "children": [
+      {
+        "id": "523b53e1db9ef865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3052e40368867af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c49e824c984f0b00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3506a77316bfc30d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c17bea283141c3df",
+    "type": "split",
+    "children": [
+      {
+        "id": "abea0b7343a262d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a3a3b2fca9d54a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ec2c7c89e04b1422",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "aea0e9c682d04ce9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0f9696a51c3e3673",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2459d608c8f8cb2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "984d9c76102d9ea8",
+  "lastOpenFiles": [
+    "02-Spring-Boot🌱/Untitled.md",
+    "2026-09-04.md",
+    "README.md",
+    "02-Spring-Boot🌱/📘 Day 43 – Spring Boot Caching.md",
+    "Untitled 8.base",
+    "Untitled 7.base",
+    "Untitled 6.base",
+    "Untitled 2.base",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "🎯 Goals/Untitled.md",
+    "10-Finance 💰/📂 Foundation/Day 01 - Introduction to the Stock Market..md",
+    "10-Finance 💰/📈 Stock Market & Mutual Fund Master Course.md",
+    "📊 Progress/📊 Progress Dashboard.md",
+    "📅 Daily Notes/Daily Notes.md",
+    "🏠 Home/🚀 SARANG MASTER ROADMAP (2026–2035).md",
+    "02-Spring-Boot🌱/📘 Day 45 – Spring Boot Scheduling.md",
+    "02-Spring-Boot🌱/📘 Day 46 – Asynchronous Programming (@Async).md",
+    "02-Spring-Boot🌱/📘 Day 46 – School Management System – Spring Boot Project Setup.md",
+    "02-Spring-Boot🌱/📘 Day 44 – Redis Integration.md",
+    "📘 Day 45 – Spring Boot Scheduling.md",
+    "02-Spring-Boot🌱/📘 Day 42 – Logging with SLF4J & Logback.md",
+    "02-Spring-Boot🌱/📘 Day 41 – Global Exception Handling.md",
+    "02-Spring-Boot🌱/📘 Day 40 – File Upload.md",
+    "02-Spring-Boot🌱/📘 Day 39 – Password Reset.md",
+    "02-Spring-Boot🌱/📘 Day 38 – Email Verification.md",
+    "02-Spring-Boot🌱/📘 Day 37 – Facebook OAuth2 Login.md",
+    "02-Spring-Boot🌱/📘 Day 36 – GitHub OAuth2 Login.md",
+    "📘 Day 35 – Google OAuth2 Login.md",
+    "02-Spring-Boot🌱/📘 Day 35 - Google OAuth2 Login.md",
+    "02-Spring-Boot🌱/📘 Day 34 - OAuth2-Introduction.md",
+    "02-Spring-Boot🌱/📘 Day 33 – Advanced Method-Level Security.md",
+    "Pasted image 20260802191732.png",
+    "02-Spring-Boot🌱/📂 Core Concepts",
+    "Untitled.canvas"
+  ]
+}
